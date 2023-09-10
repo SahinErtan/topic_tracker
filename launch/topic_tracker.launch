@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="topic_tracker" type="topic_tracker" name="topic_tracker" output="screen" required="true"/>
+    
+</launch>
